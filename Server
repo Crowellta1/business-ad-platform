@@ -1,1 +1,4 @@
-
+cd server
+npm init -y
+npm install express cors dotenv pg bcrypt jsonwebtoken stripe
+npm install --save-dev nodemon
